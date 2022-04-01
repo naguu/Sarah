@@ -1,0 +1,27 @@
+
+
+
+table{
+    border: 1px solid black;
+  }
+
+.btnBlue{
+    background-color: rgb(141, 229, 245);
+
+}
+
+.btnRosa{
+    background-color: rgb(243, 134, 176);
+}
+
+.btnGreen {
+    background-color: rgb(154, 252, 219);
+}
+
+.btnBlue,.btnGreen, .btnRosa, .btnPurple{
+    font-weight : bold ;
+}
+
+.btnPurple{
+background-color: rgb(193, 138, 245);
+}
